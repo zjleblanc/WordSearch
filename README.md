@@ -1,4 +1,4 @@
 # WordSearch
 Pariveda CodeGolf WordSearch
 
-[Complete Repo](http://https://github.com/sasedlock/codegolf_wordpuzzlesolver)
+[Complete Repo](https://github.com/sasedlock/codegolf_wordpuzzlesolver)
